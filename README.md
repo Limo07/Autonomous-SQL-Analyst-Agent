@@ -8,9 +8,9 @@ This project bridges the gap between complex databases and non-technical busines
 
 ## 📸 Project Showcase
 
-![Gradio Interface]([sql-agent-project\images\ui-screenshot.png](https://github.com/Limo07/Autonomous-SQL-Analyst-Agent/blob/main/images/ui-screenshot.png))
+![Gradio Interface][sql-agent-project\images\ui-screenshot.png](https://github.com/Limo07/Autonomous-SQL-Analyst-Agent/blob/main/images/ui-screenshot.png)
 
-![Agentic Reasoning Trace]([sql-agent-project\images\terminal.png](https://github.com/Limo07/Autonomous-SQL-Analyst-Agent/blob/main/images/ui-screenshot.png))
+![Agentic Reasoning Trace][sql-agent-project\images\terminal.png](https://github.com/Limo07/Autonomous-SQL-Analyst-Agent/blob/main/images/ui-screenshot.png)
 
 ---
 
