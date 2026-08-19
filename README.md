@@ -8,7 +8,15 @@ This project bridges the gap between complex databases and non-technical busines
 
 ## 📸 Project Showcase
 
+### 🖥️ Interactive Chat Interface
+The web application features a clean, responsive UI built with Gradio. Users can ask questions in plain English and receive formatted insights directly from the database.
+
 ![Gradio Interface](images/ui-screenshot.png)
+
+<br>
+
+### 🧠 Agentic Reasoning Trace
+Under the hood, the terminal outputs the agent's "thought process." This trace shows how the LangChain agent inspects the database schema, drafts the SQL query, executes it, and self-corrects if it encounters an error.
 
 ![Agentic Reasoning Trace](images/terminal.png)
 
